@@ -2,8 +2,6 @@
 
 A self-hostable docs answer bot that cites its sources and abstains when it isn't sure.
 
-[![CI](https://github.com/SlateGitOrg/contextforge/actions/workflows/ci.yml/badge.svg)](https://github.com/SlateGitOrg/contextforge/actions/workflows/ci.yml)
-
 ## Why
 
 Small teams field the same handful of questions their docs already answer: how to rotate an API
@@ -169,12 +167,3 @@ fixtures/     Bundled demo knowledge base
 ## License
 
 MIT - see [LICENSE](LICENSE).
-
-## Maintainer
-
-Dev Bhatt maintains contextforge, bringing 6+ years of experience in data analytics, automated
-pipelines, controls and reporting. His work includes automating risk indicator tracking and
-reconciliation across more than 50 million records per month and building AI-assisted automation.
-
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)
